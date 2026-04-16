@@ -52,17 +52,20 @@ All research conducted in full compliance with:
 - ACM Code of Ethics
 
 ## Screenshots
-### Kibana Attack Dashboard
-[Add screenshot here]
+### Live World Attack Map
+x<img width="1902" height="887" alt="live map dashboard" src="https://github.com/user-attachments/assets/5ad27f04-f8ee-44cf-ae0d-f295dbed1643" />
 
-### World Attack Map
-[Add screenshot here]
+### T-Pot Landing Page
+<img width="1238" height="905" alt="Landpage of TPOTCE - Copy" src="https://github.com/user-attachments/assets/e2246bbc-0cea-448d-8dd9-ba42758f118b" />
 
-### Credential Intelligence Tag Cloud
-[Add screenshot here]
 
-### CVE Detection — Suricata Alerts
-[Add screenshot here]
+### SQL Attack Data
+<img width="1862" height="917" alt="sql 4" src="https://github.com/user-attachments/assets/f4a918eb-2bfd-486c-a19d-069a5a4ebb83" />
+
+
+### Global Attack Intelligence — Top Countries
+<img width="1159" height="915" alt="location dashboard 1" src="https://github.com/user-attachments/assets/7319a1ae-1478-416f-b2eb-82c4ba9b914e" />
+
 
 ## Python Automation Scripts
 Two automation scripts developed:
